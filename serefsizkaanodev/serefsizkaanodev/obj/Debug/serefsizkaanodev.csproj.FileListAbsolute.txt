@@ -1,0 +1,10 @@
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\bin\Debug\serefsizkaanodev.exe.config
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\bin\Debug\serefsizkaanodev.exe
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\bin\Debug\serefsizkaanodev.pdb
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.csprojAssemblyReference.cache
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.Form1.resources
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.Properties.Resources.resources
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.csproj.GenerateResource.cache
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.csproj.CoreCompileInputs.cache
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.exe
+C:\Users\torun\source\repos\serefsizkaanodev\serefsizkaanodev\obj\Debug\serefsizkaanodev.pdb
